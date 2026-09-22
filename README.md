@@ -73,16 +73,13 @@ The objective of this project is to transform raw HR employee data into an inter
 
 ## 📸 Dashboard Review
 
-### HR Analytics Dashboard
+<img width="942" height="600" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/8847b298-7ce4-4516-bfc2-e12d96703981" />
 
-![HR Analytics Dashboard](dashboard.png)
 
-> **Dashboard Preview:**  
-> The dashboard provides an interactive view of key HR metrics, department-wise analysis, employee distribution, salary trends, performance scores, hiring trends, and workforce demographics.
 
-## 📂 Project File
 
-The main project file is an Excel workbook containing the HR data, analysis, summary, and interactive dashboard.
+
+
 
 ## 👤 Project Type
 
